@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 👋 Hi, I’m @katy-Hummes
+ - 👀 Full Stack
+ - 🌱 Estou aprendendo laravel, Inertia e vue.js
+ - 📫 Contact me at email: katielihummes15@gmail.com
+
 <!--
 **katy-Hummes/katy-Hummes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
