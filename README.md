@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @katy-Hummes
  - 👀 Full Stack
- - 🌱 Estou aprendendo laravel, Inertia e vue.js
+ - ⚡PHP, MYSQL, JavaScript, React, Vue.js...
  - 📫 Contact me at email: katielihummes027@gmail.com
 
 <!--
